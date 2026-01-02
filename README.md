@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Satyaprakash Parida
+
+🎓 MCA Student | 🐍 Python Developer | 🌐 Django Full Stack Developer  
+📍 India
+
+## 🚀 About Me
+- MCA student with strong interest in backend & full-stack development
+- Skilled in Python, Django, MySQL, HTML, CSS
+- Passionate about building real-world applications
+- Actively looking for **Internship / Fresher Python–Django roles**
+
+## 🛠️ Skills
+- **Languages:** Python
+- **Frameworks:** Django
+- **Database:** MySQL
+- **Frontend:** HTML, CSS, Bootstrap
+- **Tools:** Git, GitHub
+
+## 📌 Featured Projects
+🔹 **Hospital Management System (Django)**  
+- Doctor, Patient & Appointment management  
+- CRUD operations with authentication  
+
+🔹 **E-Commerce Platform (Django)**  
+- User login, product listing, cart & order flow  
+
+🔹 **Netflix Clone (Django)**  
+- Movies & series listing, watchlist, authentication  
+
+## 📫 Connect With Me
+- LinkedIn: (add your LinkedIn link here)
+- GitHub: https://github.com/Satyaprakash2025
+
 
 <!--
 **Satyaprakash2025/Satyaprakash2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
