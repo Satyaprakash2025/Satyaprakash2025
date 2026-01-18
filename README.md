@@ -21,10 +21,6 @@
 - Spam vs Not Spam classification using supervised machine learning
 - Text preprocessing & NLP techniques (TF-IDF, tokenization)
 - Model training and prediction using scikit-learn
-🔹 **Hospital Management System (Django)**  
-- Doctor, Patient & Appointment management  
-- CRUD operations with authentication  
-
 🔹 **E-Commerce Platform (Django)**  
 - User login, product listing, cart & order flow  
 
