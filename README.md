@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - MCA student with strong interest in backend & full-stack development
-- Skilled in Python, Django, MySQL, HTML, CSS
+- Skilled in Python, Django, AI, ML, MySQL, HTML, CSS
 - Passionate about building real-world applications
 - Actively looking for **Internship / Fresher Python–Django roles**
 
@@ -17,6 +17,10 @@
 - **Tools:** Git, GitHub
 
 ## 📌 Featured Projects
+🔹 **Email Spam Detection System (Python | AI)**  
+- Spam vs Not Spam classification using supervised machine learning
+- Text preprocessing & NLP techniques (TF-IDF, tokenization)
+- Model training and prediction using scikit-learn
 🔹 **Hospital Management System (Django)**  
 - Doctor, Patient & Appointment management  
 - CRUD operations with authentication  
