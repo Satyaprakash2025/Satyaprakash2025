@@ -21,6 +21,7 @@
 - Spam vs Not Spam classification using supervised machine learning
 - Text preprocessing & NLP techniques (TF-IDF, tokenization)
 - Model training and prediction using scikit-learn
+  
 🔹 **E-Commerce Platform (Django)**  
 - User login, product listing, cart & order flow  
 
